@@ -1,4 +1,4 @@
-wro-soy-processor
+wro4j-soy-processor
 =================
 
-Wro4j pre-processor for handling Google Closure Templates (soy)
+wro4j pre-processor for handling Google Closure Templates (soy)
